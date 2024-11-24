@@ -1,0 +1,113 @@
+﻿@model IEnumerable<ThunderGym.Models.Membership>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<section class="section__container price__container" id="price">
+    <h2 class="section__header">Our Pricing</h2>
+    <p class="section__description">
+        Our pricing plan comes with various membership tiers, each tailored to
+        cater to different preferences and fitness aspirations.
+    </p>
+    <div class="price__grid">
+        <div class="price__card">
+            <div class="price__content">
+                <h4>Basic Plan</h4>
+                <img src="assets/price-1.png" alt="price" />
+                <p>
+                    Our Basic Plan is the perfect starting point for individuals
+                    looking to kickstart their fitness journey or maintain an active
+                    lifestyle.
+                </p>
+                <hr />
+                <h4>Key Features</h4>
+                <p>Smart workout plan</p>
+                <p>At home workouts</p>
+            </div>
+            <a asp-action="Create">Join Now</a>
+        </div>
+        <div class="price__card">
+            <div class="price__content">
+                <h4>Weekly Plan</h4>
+                <img src="assets/price-2.png" alt="price" />
+                <p>
+                    Our weekly plan is designed to provide structure and variety to
+                    your workouts, ensuring you stay motivated and on track.
+                </p>
+                <hr />
+                <h4>Key Features</h4>
+                <p>PRO Gyms</p>
+                <p>Smart workout plan</p>
+                <p>At home workouts</p>
+            </div>
+            <a asp-action="Create">Join Now</a>
+        </div>
+        <div class="price__card">
+            <div class="price__content">
+                <h4>Monthly Plan</h4>
+                <img src="assets/price-3.png" alt="price" />
+                <p>
+                    With this flexible membership, you'll have access to our
+                    state-of-the-art gym facilities, expert trainers, and a vibrant
+                    fitness community
+                </p>
+                <hr />
+                <h4>Key Features</h4>
+                <p>ELITE Gyms & Classes</p>
+                <p>PRO Gyms</p>
+                <p>Smart workout plan</p>
+                <p>At home workouts</p>
+                <p>Personal Training</p>
+            </div>
+            <a asp-action="Create">Join Now</a>
+        </div>
+    </div>
+</section>
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MembershipName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpirationDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MembershipName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpirationDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MembershipId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MembershipId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MembershipId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\about.png" />
+    <None Include="wwwroot\assets\class-1.jpg" />
+    <None Include="wwwroot\assets\class-2.jpg" />
+    <None Include="wwwroot\assets\class-3.jpg" />
+    <None Include="wwwroot\assets\class-4.jpg" />
+    <None Include="wwwroot\assets\class-5.jpg" />
+    <None Include="wwwroot\assets\class-6.jpg" />
+    <None Include="wwwroot\assets\class-7.jpg" />
+    <None Include="wwwroot\assets\class-8.jpg" />
+    <None Include="wwwroot\assets\header.png" />
+    <None Include="wwwroot\assets\logo.ico" />
+    <None Include="wwwroot\assets\logo.png" />
+    <None Include="wwwroot\assets\price-1.png" />
+    <None Include="wwwroot\assets\price-2.png" />
+    <None Include="wwwroot\assets\price-3.png" />
+    <None Include="wwwroot\assets\trainer-1.jpg" />
+    <None Include="wwwroot\assets\trainer-2.jpg" />
+    <None Include="wwwroot\assets\trainer-3.jpg" />
+    <None Include="wwwroot\assets\trainer-4.jpg" />
+    <None Include="wwwroot\assets\trainer-5.jpg" />
+    <None Include="wwwroot\assets\trainer-6.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+</Project>

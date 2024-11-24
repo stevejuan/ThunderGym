@@ -1,0 +1,132 @@
+﻿@model IEnumerable<ThunderGym.Models.Trainer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<section class="section__container trainer__container" id="trainer">
+    <h2 class="section__header">Our Trainers</h2>
+    <p class="section__description">
+        Our trainers are more than just experts in exercise; they are passionate
+        about helping you achieve your health and fitness goals. Our trainers
+        are equipped to tailor workout programs to meet your unique needs.
+    </p>
+    <div class="trainer__grid">
+        <div class="trainer__card">
+            <img src="assets/trainer-1.jpg" alt="trainer" />
+        </div>
+        <div class="trainer__card">
+            <div class="trainer__content">
+                <h4>William Rodriguez</h4>
+                <h5>Strength and Conditioning and HIIT</h5>
+                <hr />
+                <p>
+                    With a background in competitive sports, he's dedicated to helping
+                    you reach your peak physical performance.
+                </p>
+            </div>
+        </div>
+        <div class="trainer__card">
+            <img src="assets/trainer-2.jpg" alt="trainer" />
+        </div>
+        <div class="trainer__card">
+            <div class="trainer__content">
+                <h4>Sarah Anderson</h4>
+                <h5>Kick boxing and Muay Thai</h5>
+                <hr />
+                <p>
+                    Sarah Anderson is a celebrated Muay Thai instructor with a plethora of medals and championships to her name. Her expertise and passion for the sport make her a respected figure both in the ring and as a mentor to aspiring fighters.
+                </p>
+            </div>
+        </div>
+        <div class="trainer__card">
+            <img src="assets/trainer-4.jpg" alt="trainer" />
+        </div>
+        <div class="trainer__card">
+            <div class="trainer__content">
+                <h4>Mary Davis</h4>
+                <h5>Yoga and Mindfulness</h5>
+                <hr />
+                <p>
+                    Mary's sessions are about physical postures and also about
+                    cultivating inner peace and mindfulness.
+                </p>
+            </div>
+        </div>
+
+        <div class="trainer__card">
+            <img src="assets/trainer-3.jpg" alt="trainer" />
+        </div>
+        <div class="trainer__card">
+            <div class="trainer__content">
+                <h4>Emily Atwell</h4>
+                <h5>Strength training & Aerobics & Kangoo Jumps</h5>
+                <hr />
+                <p>
+                    Emily leads invigorating fitness sessions focused on enhancing physical strength and flexibility while fostering inner tranquility and mindfulness.
+                </p>
+            </div>
+        </div>
+
+        <div class="trainer__card">
+            <img src="assets/trainer-5.jpg" alt="trainer" />
+        </div>
+        <div class="trainer__card">
+            <div class="trainer__content">
+                <h4>Anne Robson</h4>
+                <h5>Kinetotherapy</h5>
+                <hr />
+                <p>
+                    Anne, an experienced kinetotherapist, specializes in improving mobility and functionality through personalized treatment plans and expert guidance.
+                </p>
+            </div>
+        </div>
+
+        <div class="trainer__card">
+            <img src="assets/trainer-6.jpg" alt="trainer" />
+        </div>
+        <div class="trainer__card">
+            <div class="trainer__content">
+                <h4>Dave Goggings</h4>
+                <h5>Crossfit</h5>
+                <hr />
+                <p>
+                    Dave Goggins, an inspirational ultra-endurance athlete, motivates others to push past their limits through his resilience and determination.
+                </p>
+            </div>
+        </div>
+</section>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TrainerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Class)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrainerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Class)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TrainerId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TrainerId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TrainerId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
