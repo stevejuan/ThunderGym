@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace ThunderGym.Models
 {
-    public class GymContext : DbContext
+    public class GymContext : IdentityDbContext<IdentityUser>
     {
         public GymContext(DbContextOptions<GymContext> options)
         : base(options)

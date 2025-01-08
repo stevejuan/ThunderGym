@@ -96,10 +96,13 @@
             </div>
         </div>
 </section>
+@if ((User.IsInRole("Admin")) || (User.IsInRole("Trainer")))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+    </p>
+}
 <table class="table">
     <thead>
         <tr>
@@ -121,11 +124,14 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Class)
             </td>
-            <td>
+            @if ((User.IsInRole("Admin")) || (User.IsInRole("Trainer")))
+            {
+             <td>
                 <a asp-action="Edit" asp-route-id="@item.TrainerId">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.TrainerId">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.TrainerId">Delete</a>
             </td>
+            }
         </tr>
 }
     </tbody>

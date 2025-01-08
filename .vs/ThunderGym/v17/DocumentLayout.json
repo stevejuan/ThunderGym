@@ -3,180 +3,33 @@
   "WorkspaceRootPath": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/ThunderGymDb/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/ThunderGymDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/ThunderGymDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\membershipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\membershipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\trainers\\trainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\trainers\\trainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\itrainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\itrainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\repositories\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:repositories\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\memberships\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\memberships\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|d:\\facultate\\anul 4\\project 3\\thundergym\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E951DC6E-F9B5-4DA1-B10F-799F708EE497}|ThunderGym.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -186,49 +39,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MembersController.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\MembersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MembersController.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\MembersController.cs",
-              "RelativeToolTip": "Controllers\\MembersController.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAADwv4sAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:31:28.394Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClassesController.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\ClassesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\ClassesController.cs",
-              "RelativeToolTip": "Controllers\\ClassesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T16:10:07.704Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/ThunderGymDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T19:24:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainersController.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\TrainersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainersController.cs",
+              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\TrainersController.cs",
+              "RelativeToolTip": "Controllers\\TrainersController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T18:10:23.594Z"
+              "WhenOpened": "2025-01-08T19:23:54.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -238,490 +76,69 @@
               "RelativeDocumentMoniker": "Controllers\\MembershipsController.cs",
               "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\MembershipsController.cs",
               "RelativeToolTip": "Controllers\\MembershipsController.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAiwIcAAABJAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T11:13:34.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "Controllers\\PaymentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:22:28.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrainersController.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\TrainersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TrainersController.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\TrainersController.cs",
-              "RelativeToolTip": "Controllers\\TrainersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:13:48.805Z",
+              "WhenOpened": "2025-01-08T19:23:44.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAnAAAA",
+              "DocumentIndex": 5,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
+              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "Controllers\\ClassesController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:49:09.094Z"
+              "WhenOpened": "2025-01-08T19:23:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/ThunderGymDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T19:22:42.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/ThunderGymDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T19:16:43.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Trainers.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Trainers\\Trainers.cshtml",
-              "RelativeDocumentMoniker": "Views\\Trainers\\Trainers.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Trainers\\Trainers.cshtml",
-              "RelativeToolTip": "Views\\Trainers\\Trainers.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T17:14:24.514Z"
+              "WhenOpened": "2025-01-08T19:13:53.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Trainers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Trainers\\Index.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Trainers\\Index.cshtml",
-              "RelativeToolTip": "Views\\Trainers\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T17:23:40.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:23:35.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TrainerService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\TrainerService.cs",
-              "RelativeDocumentMoniker": "Services\\TrainerService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\TrainerService.cs",
-              "RelativeToolTip": "Services\\TrainerService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAiwCMAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:45:13.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\PaymentService.cs",
-              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\PaymentService.cs",
-              "RelativeToolTip": "Services\\PaymentService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:54:54.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MembershipService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\MembershipService.cs",
-              "RelativeDocumentMoniker": "Services\\MembershipService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\MembershipService.cs",
-              "RelativeToolTip": "Services\\MembershipService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA2wBIAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:36:54.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:19:23.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IMembershipService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IMembershipService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IMembershipService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IMembershipService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IMembershipService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:34:08.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\RepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositoryWrapper.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\RepositoryWrapper.cs",
-              "RelativeToolTip": "Repositories\\RepositoryWrapper.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAwwGoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T18:38:03.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:10:00.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ITrainerRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\ITrainerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ITrainerRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\ITrainerRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\ITrainerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:30:02.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:28:41.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IRepositoryBase.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:29:49.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ClassService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\ClassService.cs",
-              "RelativeDocumentMoniker": "Services\\ClassService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\ClassService.cs",
-              "RelativeToolTip": "Services\\ClassService.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwBUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:47:08.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ITrainerService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\ITrainerService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\ITrainerService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\ITrainerService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\ITrainerService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:43:20.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IPaymentService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IPaymentService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IPaymentService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IPaymentService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IPaymentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:53:17.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IClassService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IClassService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IClassService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IClassService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IClassService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:44:41.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:27:38.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ClassRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\ClassRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ClassRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\ClassRepository.cs",
-              "RelativeToolTip": "Repositories\\ClassRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:51:37.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IPaymentRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IPaymentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IPaymentRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IPaymentRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IPaymentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:13:24.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IMembershipRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IMembershipRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IMembershipRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IMembershipRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IMembershipRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:29:54.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IMemberRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IMemberRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IMemberRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IMemberRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:29:56.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IClassRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IClassRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IClassRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IClassRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IClassRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:29:58.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IAdminRepository.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IAdminRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IAdminRepository.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Repositories\\Interfaces\\IAdminRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IAdminRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:29:57.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T13:59:45.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T18:02:51.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\MemberService.cs",
-              "RelativeDocumentMoniker": "Services\\MemberService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\MemberService.cs",
-              "RelativeToolTip": "Services\\MemberService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBIAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:25:06.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IMemberService.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IMemberService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IMemberService.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Services\\Interfaces\\IMemberService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IMemberService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:22:38.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Classes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Classes\\Index.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Classes\\Index.cshtml",
-              "RelativeToolTip": "Views\\Classes\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T17:28:40.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Payments\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Payments\\Index.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Payments\\Index.cshtml",
-              "RelativeToolTip": "Views\\Payments\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T18:03:40.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Memberships\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Memberships\\Index.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Memberships\\Index.cshtml",
-              "RelativeToolTip": "Views\\Memberships\\Index.cshtml",
-              "ViewState": "AQIAACwAAAAAAAAAAAAowEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T19:02:32.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T17:18:43.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA2wAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T14:21:25.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Trainers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Trainers\\Create.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Trainers\\Create.cshtml",
-              "RelativeToolTip": "Views\\Trainers\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T17:43:50.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T18:12:43.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Membership.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Models\\Membership.cs",
-              "RelativeDocumentMoniker": "Models\\Membership.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Models\\Membership.cs",
-              "RelativeToolTip": "Models\\Membership.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:42:21.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Member.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "Models\\Member.cs",
-              "ToolTip": "D:\\Facultate\\Anul 4\\Project 3\\ThunderGym\\Models\\Member.cs",
-              "RelativeToolTip": "Models\\Member.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:31:23.515Z"
+              "WhenOpened": "2025-01-08T17:42:02.004Z",
+              "EditorCaption": ""
             }
           ]
         }

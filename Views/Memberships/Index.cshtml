@@ -3,6 +3,10 @@
 @{
     ViewData["Title"] = "Index";
 }
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
 
 <section class="section__container price__container" id="price">
     <h2 class="section__header">Our Pricing</h2>
@@ -25,7 +29,10 @@
                 <p>Smart workout plan</p>
                 <p>At home workouts</p>
             </div>
-            <a asp-action="Create">Join Now</a>
+            @if (!SignInManager.IsSignedIn(User))
+            {
+                <a asp-action="Create">Join Now</a>
+            }
         </div>
         <div class="price__card">
             <div class="price__content">
@@ -41,7 +48,10 @@
                 <p>Smart workout plan</p>
                 <p>At home workouts</p>
             </div>
-            <a asp-action="Create">Join Now</a>
+            @if (!SignInManager.IsSignedIn(User))
+            {
+                <a asp-action="Create">Join Now</a>
+            }
         </div>
         <div class="price__card">
             <div class="price__content">
@@ -60,15 +70,21 @@
                 <p>At home workouts</p>
                 <p>Personal Training</p>
             </div>
-            <a asp-action="Create">Join Now</a>
+            @if (!SignInManager.IsSignedIn(User))
+            {
+                <a asp-action="Create">Join Now</a>
+            }
         </div>
     </div>
 </section>
 
+@if (SignInManager.IsSignedIn(User))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+
 <table class="table">
     <thead>
         <tr>
@@ -88,6 +104,7 @@
         </tr>
     </thead>
     <tbody>
+
 @foreach (var item in Model) {
         <tr>
             <td>
@@ -109,5 +126,7 @@
             </td>
         </tr>
 }
+
     </tbody>
 </table>
+}
